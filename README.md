@@ -1,1 +1,1 @@
-# Emotional-Annalysis-Healing-Progect
+# Emotional-Analysis-Healing-Project
